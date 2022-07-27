@@ -22,4 +22,3 @@
 - Check each task with the check box or just check them all with the check and un-check all button in the menu bar
 - Ability to change the default theme for the whole app (coming soon)
 
-> A big thanks to [Dr. Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/) as well for making learning the framework a lot easier through her udemy course . This app is a bit inspired from her last section of the Flutter Course
